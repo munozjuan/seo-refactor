@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*I made sure to put quots on various Calibri font-family */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -197,7 +197,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*changed h2 to h4; making sure it was sequential*/
 .footer h4 {
     font-size: 20px;
 }
