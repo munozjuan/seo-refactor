@@ -160,16 +160,19 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*I added clearfix to these three sections*/
 .search-engine-optimization img {
+    clear: left;
     max-height: 200px;
 }
 
 .online-reputation-management img {
+    clear: right;
     max-height: 200px;
 }
 
 .social-media-marketing img {
+    clear: left;
     max-height: 200px;
 }
 
